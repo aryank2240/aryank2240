@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryank2240&show_icons=true&locale=en&layout=compact" alt="aryank2240" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryank2240&" alt="aryank2240" /></p>
 
--->
+
